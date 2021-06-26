@@ -1,0 +1,5 @@
+name: bloc_pattern
+description: a project following bloc pattern.
+vars:
+  - project_name
+  - project_description
